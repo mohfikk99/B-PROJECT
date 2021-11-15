@@ -1,0 +1,189 @@
+
+.navbar {
+    padding-top: 10px;
+
+    
+}
+h5{
+    margin-top: 200px;
+}
+.nav {
+    position: static;
+}
+.navbar-brand{
+    padding-bottom: -80px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+
+
+}
+.container .btn  {
+    color: black;
+    border-color: black;
+    
+   
+    margin-right: auto;
+}
+
+.navbar-nav {
+   margin-left: auto;
+   color: #01970e;
+
+}
+
+.navbar .container {
+    background-color: white;
+}
+
+.nav-link {
+    margin-left: 20px;
+  
+       
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid   #01970e;
+    margin-bottom: -3px;
+}
+
+.tombol {
+    text-transform: uppercase;
+    border-radius: 30px;
+    padding-top: 10px;
+}
+
+.klik {
+    text-transform: uppercase;
+    border-radius: 30px;
+    padding-top: 10px;
+}
+
+
+
+.jumbotron {
+    background-size: cover;
+    height: 400px;
+    margin-left: -80px;
+      
+}
+
+.info-panel {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0,5);
+    background-color:#01970e; 
+    border-radius: 30px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    margin-top: -100px;
+  
+}
+
+.workingspace {
+    margin-top: 20px;
+    
+}
+
+.keterangan {
+    font-size: 12px;
+}
+h5 {
+    margin-top: 50px;
+}
+.penutup h5 {
+    margin-top: 50px;  
+ }
+
+ .gambar h5 {
+    margin-top: 50px;  
+ }
+
+.perawatan  h4 {
+ 
+   color:#01970e;
+}
+
+
+ .tperawatan{
+     margin-top: 20px;
+     text-align: right;
+ }
+ .tproduk{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.produk3 {
+    margin-top: 20px;
+}
+.card-body {
+margin-top: -50px;
+}
+.card {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+
+   
+    
+}
+/* dekstop */
+@media (min-width: 992px) { 
+    .navbar-brand{
+        padding-bottom: -80px;
+        margin-top: -30px;
+        margin-bottom: -30px;
+    }
+    .profil {
+        margin-top: 250px;
+    }
+    .penutup h5 {
+        margin-top: 150px;  
+     }
+    
+     .gambar h5 {
+        margin-top: 150px;  
+     }
+    
+    .perawatan  h4 {
+     
+       color:#01970e;
+    }
+    .jumbotron {
+        background-image: url(img/a.jpg);
+        background-size: cover;
+        height: 900px;
+        margin-top: -180px;
+        margin-bottom: -180px;
+    }
+    .info-panel {
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0,5);
+        background-color:#01970e; 
+        border-radius: 30px;
+        padding: 30px;
+        text-align: center;
+        color: white;
+        margin-top: 80px;
+   
+    }
+    .keterangan {
+        margin-top: 100px;
+        font-size: large;
+    }
+    .workingspace {
+        margin-top: 50px;
+        
+    }
+    .perawatan  h4 {
+        margin-top: 1000px;
+       color:#01970e;}
+    
+ }
+
+
+
+
